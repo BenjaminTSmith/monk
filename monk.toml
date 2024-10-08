@@ -1,0 +1,6 @@
+[targets.main]
+flags = "-O0 -Wall -Werror"
+src = ["src/main.c", "tigr/tigr.c"]
+include = []
+link = []
+dependencies = []
